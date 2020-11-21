@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(36, 36, 36);
+    color: white;
+    text-align: center;
+    font-family: serif;
+    font-size: 20px;
+  }
+
+  .searchInput {
+    margin: 20px;
+    color: black;
+    border: solid 3px;
+    border-color: grey;
+  }
+
+  .ln, .email, .phone, .city, .state {
+    padding:20px;
+  }
+
+  .email {
+    padding-left:100px;
+  }
+
+  .city {
+    padding-left:50px;
+  }
+
+  
