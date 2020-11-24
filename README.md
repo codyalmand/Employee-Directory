@@ -9,7 +9,7 @@
 
 <br>
 
-## Visit Deployed Site Here: https://codyalmand.github.io/Employee-Directory/
+## Visit Deployed Site Here: https://employee-directory-by-cba.herokuapp.com/
 
 <br>
 
