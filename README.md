@@ -11,13 +11,23 @@
 
 ## Visit Deployed Site Here: https://employee-directory-by-cba.herokuapp.com/
 
-<br>
 
 ## Description
 
 This app is an example of an employee directory, the app displays random users instead of employees, as a demonstration. If you search a name and the app will dynamically remove any names that do not have those letters.
 
-<br>
+
+## Installation
+
+* install node.js,
+* (copy) this repo to clipboard,
+* open console command (terminal / bash)
+* "cd" into the desired folder,
+* "git clone (paste from clipboard)",
+* "cd" to the folder of that created repo copy,
+* npm install,
+* npm start
+
 
 ## Licenses
 
@@ -29,6 +39,6 @@ This app is an example of an employee directory, the app displays random users i
 
 ## My GitHub Repositories: https://github.com/codyalmand
 
-## Fitness-Tracker Repo: https://github.com/codyalmand/Employee-Directory
+## Employee-Directory Repo: https://github.com/codyalmand/Employee-Directory
 
 <br>
